@@ -48,7 +48,7 @@ Now the client decides to explore the Energy Industry and needs further informat
 
 6. To answer the queston "Which company would you recommend if the client wants the one with the highest total revenue for 2018 and 2019 combined?" --get the sum of 2018 and 2019 revenue first, then find the highest computed value. There are multiple ways to do this. 
 
-— You can create another colum beside the pivot table and do the manual calculation there; 
+— You can create another column beside the pivot table and do the manual calculation there; 
 — You can create a Calculated Field and do the computation there; 
 — You can also compute in the raw data itself by adding a new column, updating the pivot table source, and then refreshing the pivot table. This wil give you a new field, which is your newly created column in the raw data. Drag this new field to the Values box and get the sum.
 
